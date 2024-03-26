@@ -8,6 +8,9 @@
   <a href="https://github.com/lucasrvcintra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrvcintra&theme=tokyonight&include_all_commit=true" />
 </a>
+<a href="https://github.com/lucasrvcintra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrvcintra&theme=tokyonight&include_all_commit=true&layout=compact&langs_count=8&card_width=240" />
+</a>
 
 </div>
 <div style="display: inline_block"><br>
