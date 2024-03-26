@@ -6,11 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/lucasrvcintra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrvcintra&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrvcintra&theme=tokyonight&include_all_commits=true" />
 </a>
-<a href="https://github.com/lucasrvcintra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrvcintra&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
