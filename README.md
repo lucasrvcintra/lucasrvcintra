@@ -1,6 +1,6 @@
 ### Olá, eu sou Lucas Cintra
 
-- ⁠🔭 HTML / CSS / JAVASCRIPT / JQUERY / BOOTSTRAP
+- ⁠🔭 HTML / CSS / JAVASCRIPT / JQUERY / BOOTSTRAP / REACT
 - ⁠🌱 Estudando React
 
 
