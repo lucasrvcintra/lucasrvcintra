@@ -1,7 +1,6 @@
 ### Olá, eu sou Lucas Cintra
 
-- ⁠🔭 HTML / CSS / JAVASCRIPT / JQUERY / BOOTSTRAP / REACT
-- ⁠🌱 Estudando React
+- ⁠🔭 HTML / CSS / JAVASCRIPT / JQUERY / BOOTSTRAP / REACT / PYTHON
 
 
 <div align="center">
@@ -20,6 +19,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
   
 </div>
   
