@@ -53,7 +53,7 @@
 
 ## 📚 Educação
 
-- **UniAcademia** - Sistemas de Informação - 2024
+- **UniAcademia** - Sistemas de Informação - 2024-2028
 - **Unopar** - Empreendedorismo - 2020-2023
 
 ## 🚀 Projetos
