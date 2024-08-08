@@ -46,7 +46,7 @@
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens de Programação:** JavaScript, Typescript, Python
-- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, Node.js, Express, Typescript, VueJS, NextJS, TailwindCSS, Styled Components, Redux
+- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, Node.js, Express, Typescript, VueJS, NextJS, TailwindCSS, Styled Components, Redux, Zustand, Nest.js
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite
 - **DevOps:** Docker
 - **Ferramentas e Tecnologias:** Git, GitHub, Visual Studio Code
