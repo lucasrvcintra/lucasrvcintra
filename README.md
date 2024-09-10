@@ -1,6 +1,6 @@
 ## 👨‍💻 Lucas Roberto Vianna Cintra
 
-### Desenvolvedor Full Stack com mais de 1 ano de experiência e faminto por aprendizado. As principais técnologias que uso são: Javascript, Typescript, NodeJs, ReactJs e NextJS. Sempre busco ser uma pessoa agradável e equilibrada, tratando com seriedade e compromisso o meu trabalho.
+### Desenvolvedor Full Stack com mais de 1 ano de experiência e faminto por aprendizado. As principais técnologias que uso são: Javascript, Typescript, NodeJs, NestJs, ReactJs e NextJS. Sempre busco ser uma pessoa agradável e equilibrada, tratando com seriedade e compromisso o meu trabalho.
 
 ##
 
@@ -23,6 +23,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
   
 </div>
