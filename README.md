@@ -11,8 +11,16 @@
 <a href="https://github.com/lucasrvcintra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrvcintra&theme=tokyonight&include_all_commit=true&layout=compact&langs_count=8&card_width=240" />
 </a>
+
+ ##
+ 
 <img src="https://github-profile-trophy.vercel.app/?username=lucasrvcintra&column=4&row=1&include_all_commits=true&theme=onedark" style="max-width: 100%;"/>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasrvcintra&layout=compact&theme=dark" alt="Wakatime stats"/>
+  </a>
+</div>
   
 </div>
 <div style="display: inline_block"><br>
