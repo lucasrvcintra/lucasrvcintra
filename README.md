@@ -16,15 +16,27 @@
   
 </div>
 
+### 📈 GitHub Stats
 ##
 
 <div align="center">
-  <a href="https://github.com/lucasrvcintra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrvcintra&theme=tokyonight&include_all_commit=true&card_width=200" />
-</a>
+ 
 <a href="https://github.com/lucasrvcintra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrvcintra&theme=tokyonight&include_all_commit=true&layout=compact&langs_count=8&card_width=240" />
 </a>
+
+ ##
+ 
+  <a href="https://github.com/lucasrvcintra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrvcintra&theme=tokyonight&include_all_commit=true&card_width=200" />
+</a>
+
+
+ ##
+ 
+ <div align="center">
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrvcintra&theme=tokyonight"/>
+</div>
 
  ##
  
