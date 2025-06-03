@@ -13,7 +13,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
   
 </div>
 
@@ -59,8 +58,8 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** JavaScript, Typescript, Python
-- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, ReactNative, Node.js, Express, Typescript, VueJS, NextJS, TailwindCSS, Styled Components, Redux, Zustand, Nest.js
+- **Linguagens de Programação:** Typescript, JavaScript
+- **Desenvolvimento Web:** HTML5, CSS3, ReactJs, ReactNative, Node.js, Express, Typescript, NextJS, TailwindCSS, Nest.js
 - **Banco de Dados:** MySQL, PostgreSQL, SQLite
 - **DevOps:** Docker
 - **Ferramentas e Tecnologias:** Git, GitHub, Visual Studio Code
@@ -70,28 +69,10 @@
 - **UniAcademia** - Sistemas de Informação - 2024-2028
 - **Unopar** - Empreendedorismo - 2020-2023
 
-## 🚀 Projetos
-
-- **Mestre Agenda - Experiência 1**
-  - Descrição: Mestre Agenda é um sistema de agendamento feito para profissionais, oferecendo organização e eficiência para a gestão da sua agenda e o sucesso do seu negócio. Atuei no desenvolvimento das páginas de tutoriais e FAQs.
-  - Tecnologias Utilizadas: ReactJS, Styled Components
-  - Site: https://mestreagenda.com/
- 
-- **Mestre Agenda - Experiência 2**
-  - Descrição: Realizei a refatoração completa do backend junto com meu primo [Junior Cintra](https://github.com/juniorcintra), que me proporcionou essa oportunidade. Migramos uma API em Node.js com JavaScript, Express e Sequelize para uma API com TypeScript, NestJS e Prisma como ORM. A parte de autenticação foi melhorada com JWT e refresh tokens. Todo o desenvolvimento foi concluído em menos de 45 dias.
-  - Tecnologias Utilizadas: TypesScript, NestJs, Prisma, MySQL e JWT.
-  - Site: https://mestreagenda.com/
-
 ## 📫 Contato
 
 - **Email:** lucasrcintra63@gmail.com
 - **LinkedIn:** [Lucas Cintra](https://www.linkedin.com/in/lucasr-cintra/)
-
-
-## 🌱 Atualmente Aprendendo
-
-- Testes unitários e testes de integração utilizando Jest
-- React Native
 
 ---
 
