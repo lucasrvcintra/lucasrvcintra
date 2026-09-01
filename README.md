@@ -16,6 +16,7 @@
   
 </div>
 
+<!--
 ### 📈 GitHub Stats
 ##
 
@@ -29,7 +30,7 @@
   <a href="https://github.com/lucasrvcintra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasrvcintra&theme=tokyonight&include_all_commit=true&card_width=200" />
 </a>
-
+-->
 
  <!--
  ##
@@ -37,7 +38,7 @@
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasrvcintra&theme=tokyonight"/>
 </div>
 -->
-
+<!--
  ##
  
 <img src="https://github-profile-trophy.vercel.app/?username=lucasrvcintra&column=4&row=1&include_all_commits=true&theme=onedark" style="max-width: 100%;"/>
@@ -50,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasrvcintra&layout=compact&theme=dark" alt="Wakatime stats"/>
   </a>
 </div>
-  
+-->
   ##
  
 <div> 
